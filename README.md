@@ -1,6 +1,6 @@
-# mvvmsearchimage
+# 검색을 통한 이미지 서치앱
 
-A new Flutter project.
+api를 활용한 검색기능이 들어간 앱, 클린아키텍쳐 적용
 
 ## Getting Started
 
